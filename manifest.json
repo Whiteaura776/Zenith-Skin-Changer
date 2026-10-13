@@ -1,0 +1,223 @@
+{
+ "nombre": "Zenith Skin Changer",
+ "version": "v7.00",
+ "archivos": [
+  {
+   "n": "assets.pack",
+   "tam": 513456,
+   "sha256": "f2b3daf03cb492b197e919a5d4d3741360562a9ef8f944a36bd655713eac062a",
+   "pack": [
+    {
+     "n": "deagle_disparo.mp3",
+     "tam": 16009
+    },
+    {
+     "n": "escopeta_disparo.mp3",
+     "tam": 10629
+    },
+    {
+     "n": "mac10_disparo.mp3",
+     "tam": 10368
+    },
+    {
+     "n": "mini_dagas_de_loki.png",
+     "tam": 13793
+    },
+    {
+     "n": "mini_death_sickle.png",
+     "tam": 10848
+    },
+    {
+     "n": "mini_desert_eagle_dorada.png",
+     "tam": 11449
+    },
+    {
+     "n": "mini_desert_eagles_doradas.png",
+     "tam": 13333
+    },
+    {
+     "n": "mini_escudo_del_capitan_america.png",
+     "tam": 19966
+    },
+    {
+     "n": "mini_espada_de_diamante.png",
+     "tam": 15485
+    },
+    {
+     "n": "mini_lanza_de_diamante.png",
+     "tam": 10126
+    },
+    {
+     "n": "mini_lanzatelaranas.png",
+     "tam": 14310
+    },
+    {
+     "n": "mini_mac_10.png",
+     "tam": 8271
+    },
+    {
+     "n": "mini_pocion_de_dano.png",
+     "tam": 11663
+    },
+    {
+     "n": "mini_pump_shotgun.png",
+     "tam": 12882
+    },
+    {
+     "n": "mini_scar.png",
+     "tam": 14679
+    },
+    {
+     "n": "mini_stormbreaker.png",
+     "tam": 11994
+    },
+    {
+     "n": "mini_subfusil_de_combate.png",
+     "tam": 13359
+    },
+    {
+     "n": "mini_terra_blade.png",
+     "tam": 17782
+    },
+    {
+     "n": "pocion_aro.png",
+     "tam": 259
+    },
+    {
+     "n": "pocion_bow.mp3",
+     "tam": 8821
+    },
+    {
+     "n": "pocion_glass1.mp3",
+     "tam": 12164
+    },
+    {
+     "n": "pocion_glass2.mp3",
+     "tam": 12164
+    },
+    {
+     "n": "pocion_glass3.mp3",
+     "tam": 12164
+    },
+    {
+     "n": "pocion_remolino_1.png",
+     "tam": 264
+    },
+    {
+     "n": "pocion_remolino_2.png",
+     "tam": 257
+    },
+    {
+     "n": "scar_1.mp3",
+     "tam": 17208
+    },
+    {
+     "n": "scar_2.mp3",
+     "tam": 18462
+    },
+    {
+     "n": "scar_3.mp3",
+     "tam": 18462
+    },
+    {
+     "n": "scar_4.mp3",
+     "tam": 18462
+    },
+    {
+     "n": "scar_5.mp3",
+     "tam": 18462
+    },
+    {
+     "n": "scar_6.mp3",
+     "tam": 18462
+    },
+    {
+     "n": "scar_7.mp3",
+     "tam": 18462
+    },
+    {
+     "n": "scar_8.mp3",
+     "tam": 18462
+    },
+    {
+     "n": "subfusil_1.mp3",
+     "tam": 3904
+    },
+    {
+     "n": "subfusil_2.mp3",
+     "tam": 3904
+    },
+    {
+     "n": "subfusil_3.mp3",
+     "tam": 3904
+    },
+    {
+     "n": "subfusil_4.mp3",
+     "tam": 3904
+    },
+    {
+     "n": "subfusil_5.mp3",
+     "tam": 3904
+    },
+    {
+     "n": "subfusil_6.mp3",
+     "tam": 3904
+    },
+    {
+     "n": "zenith_skins_icono.png",
+     "tam": 60551
+    }
+   ]
+  },
+  {
+   "n": "cielo.lua",
+   "tam": 1073,
+   "sha256": "6dcd4efa89e1e4517c6029cb431fef4773395c116a87b5ce98202e84a64f88fb"
+  },
+  {
+   "n": "cielo_main.lua",
+   "tam": 317406,
+   "sha256": "3d112a8837b7a0daf43a195b3cde1fcb232ba5b164123112a3c0a815fee9f2da"
+  },
+  {
+   "n": "idiomas.lua",
+   "tam": 30487,
+   "sha256": "05b3193e845db73f89cc6b9cd9c5703e5c43a01b82f31e4931b38df332ee4cfd"
+  },
+  {
+   "n": "skins_animaciones.lua",
+   "tam": 50794,
+   "sha256": "0a7c484c7b4a07abecbdd966f696633430b72c1ee64d1e454614e7ab885750df"
+  },
+  {
+   "n": "skins_armas.lua",
+   "tam": 101555,
+   "sha256": "3cef54ba9d5f528bd93a851e9978156969c30a39b25d6f1e0d8ebbf33794c87e"
+  },
+  {
+   "n": "skins_efectos.lua",
+   "tam": 35798,
+   "sha256": "1eebf42b3be284cf6e578529c5ab0c07dd852bee97301e4967d82b7cc3b453ff"
+  },
+  {
+   "n": "skins_propias.lua",
+   "tam": 268967,
+   "sha256": "042ee65f729c208aaf50f4e58b76e4ff75c05ebbd1067f8441a88b433cee181b"
+  },
+  {
+   "n": "skins_sonidos.lua",
+   "tam": 58010,
+   "sha256": "c90225c9e156d9487d840b5f5699ce6d0e15dd3bde90cf8bbb436fe682141eb9"
+  },
+  {
+   "n": "skins_tiempos.lua",
+   "tam": 179570,
+   "sha256": "4c9ae063809e754c72a9c04d1957ddd6beb6aae1e3d5d5ea41a3013bbd3a3e74"
+  },
+  {
+   "n": "wraps_animados.lua",
+   "tam": 26345,
+   "sha256": "997a943b65d2502193b9ee999b966c83cc14b0f23816301095413e983302dae4"
+  }
+ ]
+}
