@@ -23,7 +23,7 @@
 ]]
 
 -- versión: sube en cada cambio (la lista está en CAMBIOS.txt)
-local VERSION = "v7.01"
+local VERSION = "v7.02"
 
 -- (v6.97) PERFIL: con que forma se arma este script. "completo" = el del usuario (todo); "sky" = ZENITH SKY CHANGER (solo CIELO y COLORES) y "skins" = ZENITH SKIN CHANGER (solo SKINS y
 -- WRAPS), las dos versiones PUBLICAS: tienen su propia carpeta, su ventana y su tecla, asi se pueden tener las dos a la vez. herramientas/publicar.py cambia la linea de abajo y, ademas,
