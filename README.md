@@ -43,7 +43,7 @@ You need **Xeno** (or any executor with `writefile`, `readfile`, `getcustomasset
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Whiteaura776/Zenith-Skin-Changer/main/zenith_skin_changer_loader.lua"))()
 ```
 
-The first time it downloads its files (about 50, ~2 MB) into your executor's `ZenithSkins/` folder. After that it only checks for updates. The window opens with the **`-`** key (press it again to shrink it to a small icon). It is a separate window from Zenith Sky Changer, so you can run both.
+The first time it downloads its files (about 1.6 MB) into your executor's `ZenithSkins/` folder. After that it only checks for updates. The window opens with the **`-`** key (press it again to shrink it to a small icon). It is a separate window from Zenith Sky Changer, so you can run both.
 
 ## Notes
 
