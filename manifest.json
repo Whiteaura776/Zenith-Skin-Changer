@@ -1,6 +1,6 @@
 {
  "name": "Zenith Skin Changer",
- "version": "v7.01",
+ "version": "v7.02",
  "files": [
   {
    "name": "assets.pack",
@@ -177,12 +177,12 @@
   {
    "name": "cielo_main.lua",
    "size": 317934,
-   "sha256": "4055c433f9520f67e2163528183a60377512b74e2df0bf45c2d3bc397130e572"
+   "sha256": "715f3296b2d8b460095afd8c7a2286de4826523b0486e364bffda16e3d211be7"
   },
   {
    "name": "idiomas.lua",
-   "size": 30491,
-   "sha256": "ea7060d52bc62407295420dcfd082e58fe17b0214623ad8b63c65b36253589e5"
+   "size": 40730,
+   "sha256": "5f2061e376e208b858893fab1539c2c0c94f741229cd8d00c099baef11b7fca4"
   },
   {
    "name": "skins_animaciones.lua",

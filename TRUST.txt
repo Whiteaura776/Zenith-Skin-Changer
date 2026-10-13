@@ -1,4 +1,4 @@
-Zenith Skin Changer v7.01
-SHA-256 of the exe: 0ce52f3434b22c77e9fdc22b73c93dedfa8062ed333a43f181f8020a6e9b3c83
+Zenith Skin Changer v7.02
+SHA-256 of the exe: af5779232c34cf0f6d79a08222f7ee153b9cab077e219e7e3694485ed28b1b4b
 PowerShell:  Get-FileHash "<file>" -Algorithm SHA256
 Upload the exe to https://www.virustotal.com and paste the analysis link here.

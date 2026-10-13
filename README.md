@@ -1,6 +1,6 @@
 # Zenith Skin Changer
 
-**by ZenithDev** · Rivals (Roblox) · cosmetic only · no key · v7.01
+**by ZenithDev** · Rivals (Roblox) · cosmetic only · no key · v7.02
 
 A skin changer and wrap changer for **Rivals**. It only changes how your weapons look **on your own screen**. Nobody else sees it.
 
